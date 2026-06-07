@@ -35,19 +35,9 @@ This project includes smooth gameplay, a menu system, score tracking, and a win 
 ### Game Controls
 - SPACE → Start Game
 - R → Reset Game
-## 📂 Project Structure
-
-
-pong-game/
-│
-├── main.py # Main game loop
-├── paddle.py # Paddle movement logic
-├── ball.py # Ball physics and movement
-├── scoreboard.py # Score system + win screen
-├── menu.py # Start menu screen
 ---
-## 🚀 How to Run
 
+## 🚀 How to Run
 1. Make sure Python 3 is installed
 2. Download or clone the project
 3. Run the game:
